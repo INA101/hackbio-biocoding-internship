@@ -33,7 +33,6 @@ def dna_to_protein(dna):
     return protein
 
 
-# Example usage:
 dna_sequence = "ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG"
 protein_sequence = dna_to_protein(dna_sequence)
 print("Protein sequence:", protein_sequence)
